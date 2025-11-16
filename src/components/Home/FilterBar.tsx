@@ -8,6 +8,7 @@ type Props = {
    */
   onFilter?: (category: string) => void;
   /**
+   * 
    * Optional initial value (will be used to preselect the select)
    */
   initialCategory?: string;
